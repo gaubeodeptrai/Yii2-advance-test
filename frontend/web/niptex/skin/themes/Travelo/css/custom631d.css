@@ -1,0 +1,12 @@
+.slideshow-bg .search-box-wrapper.style5 .search-box {
+	padding: 0;
+}
+.travelo-box .list-with-circle-icon li .title, .travelo-box.contact-us-box .contact-address li .title {
+	font-size: 1.1666em;
+	line-height: 1.1428em;
+}
+@media (min-width: 1200px) {
+	.slideshow-bg {
+		height: 800px;
+	}
+}
